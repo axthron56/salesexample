@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser sales_general_analysis.ipynb
+web: voila --port=$PORT --no-browser dash_sales_general_analsis.html
